@@ -18,7 +18,7 @@ I plan to pursue a Master's degree in Information Technology to further immerse 
 
 ### Certifications
 
-![DP-700](https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate%20(DP--700)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![DP-700](https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate%20(DP--700)-2D8CFF?style=flat-square)
 ![DP-750](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Databricks%20Data%20Engineer%20Associate%20(DP--750)-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 <details>
@@ -46,13 +46,13 @@ I plan to pursue a Master's degree in Information Technology to further immerse 
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft%20Fabric-2D8CFF?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 #### Visualization & BI
-![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/-Bokeh-00B0F0?style=flat-square&logo=python&logoColor=white)
 ![Panel](https://img.shields.io/badge/-Panel-FF6978?style=flat-square&logo=python&logoColor=white)
