@@ -16,6 +16,11 @@ I plan to pursue a Master's degree in Information Technology to further immerse 
 - Continuous learning and skill development
 - Developing sustainable energy solutions in the industry sector
 
+### Certifications
+
+![DP-700](https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer%20Associate%20(DP--700)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![DP-750](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Databricks%20Data%20Engineer%20Associate%20(DP--750)-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
 <details>
 <summary><h3>Tech Stack</h3></summary>
 
