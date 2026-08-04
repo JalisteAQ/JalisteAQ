@@ -2,11 +2,13 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Mechanical Engineer and Data Engineer based in Santiago, Chile, passionate about integrating engineering principles with innovative data-driven solutions. My professional focus is on renewable energy projects, as well as staying engaged with the evolving tech landscape.
+I'm a Mechanical Engineer and Data Engineer based in Santiago, Chile. My focus is operational excellence, project management, and AI engineering, with an emphasis on generating value and building solutions that my teams adopt.
 
-I strongly believe in continuous learning and personal development, viewing each day as an opportunity to explore new technologies, address complex challenges, and enhance my skill set. Currently, I am deepening my expertise in data science and machine learning while maintaining solid foundations in mechanical engineering.
+Mechanical engineering left me with an emphasis on automating processes and on the intelligence of machines and systems. Although I've worked a lot with technology, I've always been focused on the business side. I build solutions starting from the business end and working toward the tech end.
 
-I plan to pursue a Master's degree in Information Technology to further immerse myself in the rapidly evolving tech landscape, with a particular focus on AI & ML technologies.
+Ever since I was a university student, and later as a mechanical engineer, technology has been a parallel track to my actual work. My roles have been in project management, energy systems and automation, none of them software or data positions, and in all of them I've ended up using these tools. I've spent a couple of years on data science projects and a couple on data engineering, the last two using LLM systems, along with a good amount of application and software development.
+
+I hold data engineering and AI engineering certifications from Microsoft, AWS, and Databricks, and I'm currently enrolled in a Master's degree in IT Management.
 
 ### What Drives Me
 
