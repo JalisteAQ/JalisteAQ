@@ -12,21 +12,20 @@ I hold data engineering and AI engineering certifications from Microsoft, AWS, a
 
 ### What Drives Me
 
-- Exploring data science & AI applications in engineering
+- Automating processes and improving how operations run
+- Building solutions that my teams adopt
+- Applying AI and data-driven solutions to business problems
 - Teaching and sharing knowledge
-- Contributing to open-source projects
-- Continuous learning and skill development
-- Developing sustainable energy solutions in the industry sector
 
 ### Experience
 
-- Built web apps to visualize industrial data and surface business opportunities (Python, data viz)
-- Led technical, data-driven analyses for decarbonizing thermal supply in industrial plants using self-developed data science tools
-- Developed reliability engineering (RAMS) ML models for infrastructure projects
-- Built data pipelines and Power BI/Fabric semantic models for industrial OEE reporting
-- Built automated reporting tools (WhatsApp/voice) for daily plant KPIs
-- Centralized data sources and built a platform-agnostic ETL
 - Currently developing LLM-based solutions across the stack
+- Built audio-automated reporting tools for daily plant KPIs
+- Built data pipelines and Fabric semantic models for industrial OEE data analysis
+- Centralized data sources and built a platform-agnostic ETL
+- Built web apps to visualize industrial data and surface business opportunities (Python, data viz)
+- Developed reliability engineering (RAMS) ML models for infrastructure projects
+- Led technical, data-driven analyses for decarbonizing thermal supply in industrial plants using self-developed data science tools
 
 ### Certifications
 
