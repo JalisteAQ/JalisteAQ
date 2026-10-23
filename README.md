@@ -12,7 +12,7 @@ Since 2021, I have focused on applying and expanding these capabilities to autom
 
 Technology has always been a significant part of my work and personal interests, but my perspective has remained business-driven. I start with the problem and the value to be created, then build the technology needed to solve it.
 
-I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, and Databricks, and I am currently pursuing a Master's degree in IT Management.ent.
+I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, and Databricks, and I am currently pursuing a Master's degree in IT Management.
 
 ### What Drives Me
 
