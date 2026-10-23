@@ -76,9 +76,9 @@ I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, a
 
 </details>
 
-## Currently Exploring
+## Exploring
 
-My current interests focus on the practical and strategic application of AI within organizations, including:
+My interests focus on the practical and strategic application of AI within organizations, including:
 
 - Agentic AI and autonomous systems
 - Enterprise AI strategy and governance
