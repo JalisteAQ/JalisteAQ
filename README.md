@@ -2,29 +2,28 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Mechanical Engineer and Data Engineer based in Santiago, Chile. My focus is operational excellence, project management, and AI engineering, with an emphasis on generating value and building solutions that my teams adopt.
+Mechanical engineering gave me a strong focus on process automation and the intelligence behind machines and systems. While technology has always been a significant part of my work, my perspective has remained business-driven. I approach problems from the business side first, then build the technology needed to solve them.
 
-Mechanical engineering left me with an emphasis on automating processes and on the intelligence of machines and systems. Although I've worked a lot with technology, I've always been focused on the business side. I build solutions starting from the business end and working toward the tech end.
+Ever since I was a university student, technology has been a parallel track to my core work. My roles have focused on project management, energy systems, and automation rather than software or data, yet I've consistently relied on these tools. Over the years, I've worked on data science and data engineering projects, most recently with LLM systems, while also gaining extensive experience in application and software development.
 
-Ever since I was a university student, and later as a mechanical engineer, technology has been a parallel track to my core work. My roles have focused on project management, energy systems, and automation rather than software or data, yet I've consistently relied on these tools. Over the years, I've worked on data science and data engineering projects, most recently with LLM systems, while also gaining extensive experience in application and software development.
-I hold data engineering and AI engineering certifications from Microsoft, AWS, and Databricks, and I'm currently enrolled in a Master's degree in IT Management.
+I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, and Databricks, and I am currently pursuing a Master's degree in IT Management.
 
 ### What Drives Me
 
-- Automating processes and improving how operations run
-- Building solutions that my teams adopt
-- Applying AI and data-driven solutions to business problems
-- Teaching and sharing knowledge
+- Automating processes and improving operational performance
+- Building solutions that teams actively adopt
+- Applying AI and data to solve business problems
+- Teaching, mentoring, and sharing knowledge
 
 ### Experience
 
-- Currently developing LLM-based solutions across the stack
-- Built audio-automated reporting tools for daily plant KPIs
-- Built data pipelines and Fabric semantic models for industrial OEE data analysis
-- Centralized data sources and built a platform-agnostic ETL
-- Built web apps to visualize industrial data and surface business opportunities (Python, data viz)
-- Developed reliability engineering (RAMS) ML models for infrastructure projects
-- Led technical, data-driven analyses for decarbonizing thermal supply in industrial plants using self-developed data science tools
+- Currently developing end-to-end LLM-based solutions
+- Built automated audio reporting tools for daily plant KPIs
+- Developed data pipelines and Fabric semantic models for industrial OEE analysis
+- Centralized data sources and built a platform-agnostic ETL framework
+- Built web applications to visualize industrial data and identify business opportunities
+- Developed machine learning models for reliability engineering (RAMS) in infrastructure projects
+- Led data-driven technical analyses to decarbonize thermal energy supply in industrial plants using self-developed data science tools
 
 ### Certifications
 
@@ -77,21 +76,23 @@ I hold data engineering and AI engineering certifications from Microsoft, AWS, a
 
 </details>
 
-## Currently Learning
+## Currently Exploring
 
-I'm always excited to learn new technologies and improve my skills. Currently focusing on:
+My current interests focus on the practical and strategic application of AI within organizations, including:
 
-- Advanced Machine Learning techniques
-- Cloud Architecture and DevOps practices
-- IoT applications
-- Data Engineering best practices
+- Agentic AI and autonomous systems
+- Enterprise AI strategy and governance
+- LLM-based solution architecture
+- AI-enabled operational excellence
+- Organizational adoption of AI technologies
 
 ## Challenges
 
-The biggest difficulties I've found over the years:
+The challenges that interest me most are:
 
-- Lack of data structure and quality
-- Lack of governance and inconsistencies in data flows
-- Unreadiness of data for AI applications in most organizations
+- Bridging the gap between business needs and technology solutions
+- Creating scalable and sustainable data and AI capabilities
+- Driving organizational adoption of innovation
+- Translating emerging technologies into measurable business value
 
-My current focus is on understanding the technology and how it can be placed in strategic contexts within an organization to generate value.
+My current focus is on understanding how AI and other emerging technologies can be positioned within organizational strategies to support long-term growth and operational excellence.
