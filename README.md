@@ -2,11 +2,17 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Mechanical engineering gave me a strong focus on process automation and the intelligence behind machines and systems. While technology has always been a significant part of my work, my perspective has remained business-driven. I approach problems from the business side first, then build the technology needed to solve them.
+I'm a Mechanical Engineer and Data Engineer based in Chile. My focus is operational excellence, project management, and AI engineering, with an emphasis on generating value and building solutions that teams adopt.
 
-Ever since I was a university student, technology has been a parallel track to my core work. My roles have focused on project management, energy systems, and automation rather than software or data, yet I've consistently relied on these tools. Over the years, I've worked on data science and data engineering projects, most recently with LLM systems, while also gaining extensive experience in application and software development.
+Mechanical engineering gave me a strong focus on process automation, systems thinking, and the intelligence behind machines and systems.
 
-I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, and Databricks, and I am currently pursuing a Master's degree in IT Management.
+That foundation naturally extended into the data domain, where much of my professional development has focused on data engineering and data science, with an emphasis on machine learning and AI.
+
+Since 2021, I have focused on applying and expanding these capabilities to automate operational and business workflows, continuously incorporating new tools, platforms, and methodologies as they mature. In parallel, I have built applications and end-to-end solutions using software engineering and DevOps practices.
+
+Technology has always been a significant part of my work and personal interests, but my perspective has remained business-driven. I start with the problem and the value to be created, then build the technology needed to solve it.
+
+I hold Data Engineering and AI Engineering certifications from Microsoft, AWS, and Databricks, and I am currently pursuing a Master's degree in IT Management.ent.
 
 ### What Drives Me
 
