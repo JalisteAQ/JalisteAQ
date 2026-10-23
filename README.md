@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2OTU5OWQ0MzBmZDM4ZDM0ZmQ5MzFkYzFhZDQzZmU1YzI1YmNlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Mechanical Engineer and Data Engineer based in Chile. My focus is operational excellence, project management, and AI engineering, with an emphasis on generating value and building solutions that teams adopt.
+I'm a Mechanical Engineer with a strong focus on data, AI, and operational excellence. My work combines project management, engineering, and technology to design solutions that create measurable value and become part of day-to-day operations.
 
 Mechanical engineering gave me a strong focus on process automation, systems thinking, and the intelligence behind machines and systems.
 
