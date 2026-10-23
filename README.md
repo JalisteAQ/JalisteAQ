@@ -6,8 +6,7 @@ I'm a Mechanical Engineer and Data Engineer based in Santiago, Chile. My focus i
 
 Mechanical engineering left me with an emphasis on automating processes and on the intelligence of machines and systems. Although I've worked a lot with technology, I've always been focused on the business side. I build solutions starting from the business end and working toward the tech end.
 
-Ever since I was a university student, and later as a mechanical engineer, technology has been a parallel track to my actual work. My roles have been in project management, energy systems and automation, none of them software or data positions, and in all of them I've ended up using these tools. I've spent a couple of years on data science projects and a couple on data engineering, the last two using LLM systems, along with a good amount of application and software development.
-
+Ever since I was a university student, and later as a mechanical engineer, technology has been a parallel track to my core work. My roles have focused on project management, energy systems, and automation rather than software or data, yet I've consistently relied on these tools. Over the years, I've worked on data science and data engineering projects, most recently with LLM systems, while also gaining extensive experience in application and software development.
 I hold data engineering and AI engineering certifications from Microsoft, AWS, and Databricks, and I'm currently enrolled in a Master's degree in IT Management.
 
 ### What Drives Me
